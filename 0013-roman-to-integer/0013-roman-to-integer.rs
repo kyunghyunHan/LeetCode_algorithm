@@ -1,32 +1,63 @@
-trait FromRoman {
-    fn roman_value(&self) -> i32;
-}
-
-impl FromRoman for char {
-    fn roman_value(&self) -> i32 {
-        match self {
-            'I' => 1,
-            'V' => 5,
-            'X' => 10,
-            'L' => 50,
-            'C' => 100,
-            'D' => 500,
-            'M' => 1000,
-            _ => panic!("Not a roman numeral")
-        } 
-    }
-}
-
 impl Solution {
     pub fn roman_to_int(s: String) -> i32 {
-        s.chars().rev().fold((0, 0),        // traverse input from right to left accumulating result and remembering previous symbol
-            |(sum, prev), c| {
-                let n = c.roman_value();    // get numerical value of roman literal
-                if n >= prev {              
-                    (sum + n, n)            // the "value" of the literal should increase normally
+    let mut cnt = 0;
+    let v = s.chars().collect::<Vec<char>>();
+    for i in 0..v.len() {
+        println!("{}",v[i]);
+        match v[i] {
+            'I' => cnt += 1,
+            'V' => {
+                if i > 0 && v[i - 1] == 'I' {
+                    cnt -= 1;
+                    cnt += 4
                 } else {
-                    (sum - n, n)            // if it decreases then substract from the result
+                    cnt += 5
                 }
-            }).0                                 // take sum from the tuple
+            }
+            'X' => {
+                if i > 0 && v[i - 1] == 'I' {
+                    cnt -= 1;
+                    cnt += 9
+                } else {
+                    cnt += 10
+                }
+            }
+            'L' => {
+                if i > 0 && v[i - 1] == 'X' {
+                    cnt -= 10;
+                    cnt += 40
+                } else {
+                    cnt += 50
+                }
+            }
+            'C' => {
+                if i > 0 && v[i - 1] == 'X' {
+                    cnt -= 10;
+                    cnt += 90
+                } else {
+                    cnt += 100
+                }
+            }
+            'D' => {
+                if i > 0 && v[i - 1] == 'C' {
+                    cnt -= 100;
+                    cnt += 400
+                } else {
+                    cnt += 500
+                }
+            }
+            'M' => {
+                if i > 0 && v[i - 1] == 'C' {
+                    cnt -= 100;
+                    cnt += 900
+                } else {
+                    cnt += 1000
+                }
+            }
+            _ => {}
+        }
     }
+    cnt
+}
+
 }
