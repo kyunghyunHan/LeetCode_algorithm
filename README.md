@@ -7,4 +7,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1313-decompress-run-length-encoded-list](https://github.com/kyunghyunHan/LeetCode_algorithm/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0771-jewels-and-stones](https://github.com/kyunghyunHan/LeetCode_algorithm/tree/main/0771-jewels-and-stones/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0771-jewels-and-stones](https://github.com/kyunghyunHan/LeetCode_algorithm/tree/main/0771-jewels-and-stones/) | Easy |
 <!---LeetCode Topics End-->
