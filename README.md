@@ -14,5 +14,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0551-student-attendance-record-i](https://github.com/kyunghyunHan/LeetCode_algorithm/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0771-jewels-and-stones](https://github.com/kyunghyunHan/LeetCode_algorithm/tree/main/0771-jewels-and-stones/) | Easy |
 <!---LeetCode Topics End-->
