@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/kyunghyunHan/LeetCode_algorithm/tree/main/0202-happy-number/) | Easy |
+| [0258-add-digits](https://github.com/kyunghyunHan/LeetCode_algorithm/tree/main/0258-add-digits/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,4 +30,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/kyunghyunHan/LeetCode_algorithm/tree/main/0202-happy-number/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/kyunghyunHan/LeetCode_algorithm/tree/main/0258-add-digits/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/kyunghyunHan/LeetCode_algorithm/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
