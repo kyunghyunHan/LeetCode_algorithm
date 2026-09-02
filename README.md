@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0463-island-perimeter](https://github.com/kyunghyunHan/LeetCode_algorithm/tree/main/0463-island-perimeter/) | Easy |
 | [1313-decompress-run-length-encoded-list](https://github.com/kyunghyunHan/LeetCode_algorithm/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -38,4 +39,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/kyunghyunHan/LeetCode_algorithm/tree/main/0258-add-digits/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0463-island-perimeter](https://github.com/kyunghyunHan/LeetCode_algorithm/tree/main/0463-island-perimeter/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0463-island-perimeter](https://github.com/kyunghyunHan/LeetCode_algorithm/tree/main/0463-island-perimeter/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0463-island-perimeter](https://github.com/kyunghyunHan/LeetCode_algorithm/tree/main/0463-island-perimeter/) | Easy |
 <!---LeetCode Topics End-->
