@@ -42,13 +42,23 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0404-sum-of-left-leaves](https://github.com/kyunghyunHan/LeetCode_algorithm/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0463-island-perimeter](https://github.com/kyunghyunHan/LeetCode_algorithm/tree/main/0463-island-perimeter/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0404-sum-of-left-leaves](https://github.com/kyunghyunHan/LeetCode_algorithm/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0463-island-perimeter](https://github.com/kyunghyunHan/LeetCode_algorithm/tree/main/0463-island-perimeter/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0463-island-perimeter](https://github.com/kyunghyunHan/LeetCode_algorithm/tree/main/0463-island-perimeter/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0404-sum-of-left-leaves](https://github.com/kyunghyunHan/LeetCode_algorithm/tree/main/0404-sum-of-left-leaves/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0404-sum-of-left-leaves](https://github.com/kyunghyunHan/LeetCode_algorithm/tree/main/0404-sum-of-left-leaves/) | Easy |
 <!---LeetCode Topics End-->
