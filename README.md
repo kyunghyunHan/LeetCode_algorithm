@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/kyunghyunHan/LeetCode_algorithm/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/kyunghyunHan/LeetCode_algorithm/tree/main/0455-assign-cookies/) | Easy |
 | [0463-island-perimeter](https://github.com/kyunghyunHan/LeetCode_algorithm/tree/main/0463-island-perimeter/) | Easy |
+| [0860-lemonade-change](https://github.com/kyunghyunHan/LeetCode_algorithm/tree/main/0860-lemonade-change/) | Easy |
 | [1313-decompress-run-length-encoded-list](https://github.com/kyunghyunHan/LeetCode_algorithm/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/kyunghyunHan/LeetCode_algorithm/tree/main/0455-assign-cookies/) | Easy |
+| [0860-lemonade-change](https://github.com/kyunghyunHan/LeetCode_algorithm/tree/main/0860-lemonade-change/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
