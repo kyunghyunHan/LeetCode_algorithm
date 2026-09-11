@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0414-third-maximum-number](https://github.com/kyunghyunHan/LeetCode_algorithm/tree/main/0414-third-maximum-number/) | Easy |
 | [0463-island-perimeter](https://github.com/kyunghyunHan/LeetCode_algorithm/tree/main/0463-island-perimeter/) | Easy |
 | [1313-decompress-run-length-encoded-list](https://github.com/kyunghyunHan/LeetCode_algorithm/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
 ## Hash Table
@@ -61,4 +62,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0404-sum-of-left-leaves](https://github.com/kyunghyunHan/LeetCode_algorithm/tree/main/0404-sum-of-left-leaves/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0414-third-maximum-number](https://github.com/kyunghyunHan/LeetCode_algorithm/tree/main/0414-third-maximum-number/) | Easy |
 <!---LeetCode Topics End-->
